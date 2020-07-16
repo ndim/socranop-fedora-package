@@ -1,0 +1,6 @@
+/.build-0.*.log
+/noarch/
+/results_socranop/
+/socranop-0.*/
+/socranop-0.*.tar.gz
+/socranop-0.*.src.rpm
